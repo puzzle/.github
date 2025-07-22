@@ -1,4 +1,4 @@
-![Puzzle ITC Logo](/puzzle_stamp_rgb.svg "Puzzle ITC - Changing IT for the better!")
+![Puzzle ITC Logo](/profile/puzzle_stamp_rgb.svg "Puzzle ITC - Changing IT for the better!")
 
 ----
 
