@@ -9,7 +9,7 @@ Open standards and cost-effective, resilient IT are at the heart of our business
 
 <img src="https://github.com/puzzle/.github/blob/main/profile/vision-banner.png" alt="Puzzle ITC Vision" max-width="100%">
 
-[Our vision](https://www.puzzle.ch/ueber-uns/#vision) is "we care we invent we contribute Changing IT for the better".
-"We contribute" in our vision describes that we work with open standards and contribute back - and this can be seen here in our repositories.
+[Our vision](https://www.puzzle.ch/ueber-uns/#vision) is "We care We invent We contribute Changing IT for the better".
+"We contribute" in our vision describes our work with open standards and OpenSource contributions - and this can be seen here in our repositories.
 
 In this GitHub organization we strive to highlight some of our OpenSource contributions and projects.
