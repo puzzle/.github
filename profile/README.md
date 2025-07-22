@@ -1,4 +1,4 @@
-![Puzzle ITC Logo](/profile/puzzle_stamp_rgb.svg "Puzzle ITC - Changing IT for the better!")
+<img src="https://github.com/puzzle/.github/blob/main/profile/puzzle_stamp_rgb.svg" alt="Puzzle ITC Logo" style="width:auto; max-height:160px; max-width: 100%;">
 
 ----
 
