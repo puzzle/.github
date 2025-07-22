@@ -1,4 +1,4 @@
-<img src="https://github.com/puzzle/.github/blob/main/profile/puzzle_stamp_rgb.svg" alt="Puzzle ITC Logo" style="max-height: 160px; max-width: 100%;">
+<img src="https://github.com/puzzle/.github/blob/main/profile/puzzle_stamp_rgb.svg" alt="Puzzle ITC Logo" height="160px">
 
 ----
 
