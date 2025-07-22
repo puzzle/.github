@@ -12,4 +12,4 @@ Open standards and cost-effective, resilient IT are at the heart of our business
 [Our vision](https://www.puzzle.ch/ueber-uns/#vision) is "We care We invent We contribute Changing IT for the better".
 "We contribute" in our vision describes our work with open standards and OpenSource contributions - and this can be seen here in our repositories.
 
-In this GitHub organization we strive to highlight some of our OpenSource contributions and projects.
+In this GitHub organization we strive to highlight some of our OpenSource contributions, techlabs and projects.
