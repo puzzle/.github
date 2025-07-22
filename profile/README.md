@@ -1,13 +1,11 @@
-<img src="https://github.com/puzzle/.github/blob/main/profile/V2_page_header_.png" alt="Puzzle ITC Logo" width="100%">
+<img src="https://github.com/puzzle/.github/blob/main/profile/V2_page_header_.png" alt="Puzzle ITC Logo" max-width="100%">
 
 ----
 
 [Puzzle ITC](https://www.puzzle.ch/) is a well-established software and technology company located in Switzerland and Germany with a proud 25-year history.
-Over 140 dedicated people implement challenging IT projects at our locations in Bern, Zurich, Basel and Tübingen (DE). 
+At puzzle, business analysis, project management, our own user experience studio, software development and system, container and platform engineers work hand in hand to provide tailor-made cloud-native applications and modern, future-proof IT solutions. In addition, puzzle offers competent support - holistically or tailored to our customers needs, from the initial idea to the operation of a digital solution. 
 Open standards and cost-effective, resilient IT are at the heart of our business activities. 
-Companies and organizations receive competent support - holistically or tailored to their needs, from the initial idea to the operation of a digital solution. 
-Business analysis, project management, our own user experience studio, software development and system, container and platform engineers work hand in hand. 
-We develop and implement in an agile manner, use modern open source technologies and provide support in the new, rapidly evolving world of AI. Tailor-made cloud-native applications and modern, future-proof IT solutions are created.
+
 
 <img src="https://github.com/puzzle/.github/blob/main/profile/vision-banner.png" alt="Puzzle ITC Vision" max-width="100%">
 
